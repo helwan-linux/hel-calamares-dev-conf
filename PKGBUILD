@@ -1,8 +1,8 @@
-# Maintainer: Erik Dubois <erik.dubois@gmail.com>
-pkgname=hel-calamares-config
+# Maintainer: Saeed Badrelden <helwanlinux@gmail.com>
+pkgname=hel-calamares-dev-conf
 _destname1="/etc"
 pkgver=1.0
-pkgrel=02
+pkgrel=1
 pkgdesc="calamares for Helwan"
 arch=('any')
 url="https://github.com/helwan-linux"
